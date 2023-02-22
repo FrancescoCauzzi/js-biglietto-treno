@@ -1,0 +1,15 @@
+*{
+  box-sizing: border-box;
+}
+
+body{
+  background-color: #DCDCDC;
+}
+
+header{
+  text-align: center;
+}
+
+header h1{
+  color: crimson;
+}
